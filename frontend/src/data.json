@@ -1,0 +1,341 @@
+[
+  {
+    "category": "Bakery",
+    "name": "Brown Bread 400g",
+    "rating": "★★★★★ (5)",
+    "price": "$120",
+    "original_price": "$140",
+    "about_product": [
+      " Soft and healthy",
+      "Made from whole wheat",
+      "Ideal for breakfast and sandwiches"
+    ],
+    "image_url": "bakery_image.png"
+  },
+  {
+    "category": "Cereals",
+    "name": "Organic Quinoa 500g",
+    "rating": "★★★★☆ (8)",
+    "price": "$90",
+    "original_price": "$110",
+    "about_product": [
+      "High in protein and fiber",
+      "Gluten-free",
+      "Rich in vitamins and minerals"
+    ],
+    "image_url": "quinoa_image.png"
+  },
+  {
+    "category": "Vegetables",
+    "name": "Carrot 500g",
+    "rating": "★★★★★ (12)",
+    "price": "$60",
+    "original_price": "$75",
+    "about_product": [
+      "Sweet and crunchy",
+      "Good for eyesight",
+      "Ideal for juices and salads"
+    ],
+    "image_url": "carrot_image.png"
+  },
+  {
+    "category": "Fruits",
+    "name": "Apple 1 kg",
+    "rating": "★★★★★ (14)",
+    "price": "$80",
+    "original_price": "$95",
+    "about_product": ["Boosts immunity", "Rich in fiber"],
+    "image_url": "apple_image.png"
+  },
+  {
+    "category": "Dairy",
+    "name": "Cheese 200g",
+    "rating": "★★★★☆ (10)",
+    "price": "$50",
+    "original_price": "$60",
+    "about_product": [
+      "Creamy and delicious",
+      "Perfect for pizzas and sandwiches",
+      "Rich in calcium"
+    ],
+    "image_url": "cheese_image.png"
+  },
+  {
+    "category": "Meat",
+    "name": "Wheat Flour 5kg",
+    "rating": "★★★★★ (9)",
+    "price": "$230",
+    "original_price": "$250",
+    "about_product": [
+      "High-quality whole wheat",
+      "Soft and fluffy rotis",
+      "Rich in nutrients"
+    ],
+    "image_url": "wheat_flour_image.png"
+  },
+  {
+    "category": "Fruits",
+    "name": "Mango 1 kg",
+    "rating": "★★★★★ (11)",
+    "price": "$100",
+    "original_price": "$120",
+    "about_product": [
+      "Sweet and flavorful",
+      "Perfect for smoothies and desserts",
+      "Rich in Vitamin A"
+    ],
+    "image_url": "mango_image_1.png"
+  },
+  {
+    "category": "Vegetables",
+    "name": "Grapes 500g",
+    "rating": "★★★★☆ (6)",
+    "price": "$30",
+    "original_price": "$40",
+    "about_product": [
+      "Fresh and juicy",
+      "Rich in antioxidants",
+      "Perfect for snacking and fruit salads"
+    ],
+    "image_url": "grapes_image_1.png"
+  },
+  {
+    "category": "Beverages",
+    "name": "Onion 500g",
+    "rating": "★★★★★ (13)",
+    "price": "$70",
+    "original_price": "$85",
+    "about_product": [
+      "Fresh and pungent",
+      "Perfect for cooking",
+      "A kitchen staple"
+    ],
+    "image_url": "onion_image_1.png"
+  },
+  {
+    "category": "Snacks",
+    "name": "7 Up 1.5L",
+    "rating": "★★★★☆ (7)",
+    "price": "$35",
+    "original_price": "$45",
+    "about_product": [
+      "Refreshing lemon-lime flavor",
+      "Perfect for refreshing",
+      "Best served chilled"
+    ],
+    "image_url": "seven_up_image_1.png"
+  },
+  {
+    "category": "Bakery",
+    "name": "Banana 1 kg",
+    "rating": "★★★★★ (10)",
+    "price": "$95",
+    "original_price": "$110",
+    "about_product": [
+      "Sweet and ripe",
+      "High in potassium",
+      "Great for smoothies and snacking"
+    ],
+    "image_url": "banana_image_1.png"
+  },
+  {
+    "category": "Fruits",
+    "name": "Sprite 1.5L",
+    "rating": "★★★★★ (8)",
+    "price": "$75",
+    "original_price": "$90",
+    "about_product": [
+      "Chilled and refreshing",
+      "Perfect for celebrations",
+      "Best served cold"
+    ],
+    "image_url": "sprite_image_1.png"
+  },
+  {
+    "category": "Vegetables",
+    "name": "Knorr Cup Soup 70g",
+    "rating": "★★★★☆ (5)",
+    "price": "$40",
+    "original_price": "$50",
+    "about_product": [
+      "Convenient for on-the-go",
+      "Healthy and nutritious",
+      "Variety of flavors"
+    ],
+    "image_url": "knorr_soup_image.png"
+  },
+  {
+    "category": "Snacks",
+    "name": "Potato 500g",
+    "rating": "★★★★★ (12)",
+    "price": "$110",
+    "original_price": "$130",
+    "about_product": [
+      "Fresh and organic",
+      "Rich in carbohydrates",
+      "Ideal for curries and fries"
+    ],
+    "image_url": "potato_image_2.png"
+  },
+  {
+    "category": "Beverages",
+    "name": "Coca-Cola 1.5L",
+    "rating": "★★★★☆ (6)",
+    "price": "$30",
+    "original_price": "$40",
+    "about_product": [
+      "Coca-Cola 1.5",
+      "Perfect for parties and gatherings",
+      "LBest served chilled"
+    ],
+    "image_url": "coca_cola_image.png"
+  },
+  {
+    "category": "Dairy",
+    "name": "Butter Croissant 100g",
+    "rating": "★★★★★ (9)",
+    "price": "$20",
+    "original_price": "$25",
+    "about_product": [
+      "Flaky and buttery",
+      "Freshly baked",
+      "Perfect for breakfast or snacks"
+    ],
+    "image_url": "butter_croissant_image.png"
+  },
+  {
+    "category": "Dairy",
+    "name": "Brown Rice 1kg",
+    "rating": "★★★★★ (9)",
+    "price": "$20",
+    "original_price": "$25",
+    "about_product": [
+      "Whole grain and nutritious",
+      "Helps in weight management",
+      "Good source of magnesium"
+    ],
+    "image_url": "brown_rice_image.png"
+  },
+  {
+    "category": "Dairy",
+    "name": "Spinach 500g",
+    "rating": "★★★★★ (9)",
+    "price": "$20",
+    "original_price": "$25",
+    "about_product": [
+      "Rich in iron",
+      "High in vitamins",
+      "Perfect for soups and salads"
+    ],
+    "image_url": "spinach_image_1.png"
+  },
+  {
+    "category": "Dairy",
+    "name": "Paneer 200g",
+    "rating": "★★★★★ (9)",
+    "price": "$20",
+    "original_price": "$25",
+    "about_product": [
+      "Soft and fresh",
+      "Rich in protein",
+      "Ideal for curries and snacks"
+    ],
+    "image_url": "paneer_image.png"
+  },
+  {
+    "category": "Dairy",
+    "name": "Eggs 12 pcs",
+    "rating": "★★★★★ (9)",
+    "price": "$20",
+    "original_price": "$25",
+    "about_product": [
+      "Farm fresh",
+      "Rich in protein",
+      "Ideal for breakfast and baking"
+    ],
+    "image_url": "eggs_image.png"
+  },
+  {
+    "category": "Dairy",
+    "name": "Barley 1kg",
+    "rating": "★★★★★ (9)",
+    "price": "$20",
+    "original_price": "$25",
+    "about_product": [
+      "Rich in fiber",
+      "Helps improve digestion",
+      "Low in fat and cholesterol"
+    ],
+    "image_url": "barley_image.png"
+  },
+  {
+    "category": "Dairy",
+    "name": "Tomato 1 kg",
+    "rating": "★★★★★ (9)",
+    "price": "$20",
+    "original_price": "$25",
+    "about_product": [
+      "Juicy and ripe",
+      "Rich in Vitamin C",
+      "Perfect for salads and sauces"
+    ],
+    "image_url": "tomato_image.png"
+  },
+  {
+    "category": "Dairy",
+    "name": "Fanta 1.5L",
+    "rating": "★★★★★ (9)",
+    "price": "$20",
+    "original_price": "$25",
+    "about_product": [
+      "Sweet and fizzy",
+      "FGreat for parties and gatherings",
+      "Best served cold"
+    ],
+    "image_url": "fanta_image_1.png"
+  },
+  {
+    "category": "Dairy",
+    "name": "Basmati Rice 5kg",
+    "rating": "★★★★★ (9)",
+    "price": "$20",
+    "original_price": "$25",
+    "about_product": [
+      "Long grain and aromatic",
+      "Perfect for biryani and pulao",
+      "Premium quality"
+    ],
+    "image_url": "basmati_rice_image.png"
+  },
+  {
+    "category": "Dairy",
+    "name": "Amul Milk 1L",
+    "rating": "★★★★★ (9)",
+    "price": "$20",
+    "original_price": "$25",
+    "about_product": ["Boosts immunity", "Rich in fiber"],
+    "image_url": "amul_milk_image.png"
+  },
+  {
+    "category": "Dairy",
+    "name": "Maggi Noodles 280g",
+    "rating": "★★★★★ (9)",
+    "price": "$20",
+    "original_price": "$25",
+    "about_product": ["Instant and easy to cook", "Delicious taste"],
+    "image_url": "maggi_image.png"
+  },
+  {
+    "category": "Dairy",
+    "name": "Orange 1 kg",
+    "rating": "★★★★★ (9)",
+    "price": "$20",
+    "original_price": "$25",
+    "about_product": [
+      "Juicy and sweet",
+      "Rich in Vitamin C",
+      "Perfect for juices and salads"
+    ],
+    "image_url": "orange_image.png"
+  }
+]
